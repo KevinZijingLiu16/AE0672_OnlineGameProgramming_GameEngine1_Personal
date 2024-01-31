@@ -835,8 +835,8 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: AE0672_GameEngine1_OnlineGame_Individual
-  metroPackageVersion: 
+  metroPackageName: AE0672GameEngine1OnlineGameIndividual
+  metroPackageVersion: 1.0.0.0
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
@@ -844,7 +844,7 @@ PlayerSettings:
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: AE0672_GameEngine1_OnlineGame_Individual
   wsaImages: {}
-  metroTileShortName: 
+  metroTileShortName: AE0672_GameEngine1_OnlineGame_Individual
   metroTileShowName: 0
   metroMediumTileShowName: 0
   metroLargeTileShowName: 0
